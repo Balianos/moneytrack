@@ -1,0 +1,11 @@
+{
+  "name": "money_track",
+  "version": "1.0.0",
+  "description": "MoneyTrack Dashboard Test",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run"
+  },
+  "author": "",
+  "license": "ISC"
+}
